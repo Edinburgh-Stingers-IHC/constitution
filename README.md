@@ -335,19 +335,19 @@ John McKenzie
 
 Agreed and signed by Office bearers:
 Reviewed, updated as required following AGM held in Murrayfield on 20 July 2024
-	Chair	
-	Secretary	
-	Treasurer	
-	Team Manager	
-	Head Coach	
-	Committee Member	
-	Committee Member	
+#### Chair:
+#### Secretary:
+#### Treasurer:
+#### Team Manager:
+#### Head Coach:
+#### Committee Member:
+#### Committee Member:
 
-Season 2024/25 Non-executive Office holders:
-	Assistant Coach [es]	 TBA
-	Captain	to be decided
-	Alternate Captains	to be decided by game
-	Game ‘Official’		
+### Season 2024/25 Non-executive Office holders:
+#### Assistant Coach:
+#### Captain:
+#### Alternate Captains to be decided by game
+#### Game ‘Official’
 	
 Date :	
 Place	Murrayfield Ice Arena 
