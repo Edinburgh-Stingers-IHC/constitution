@@ -328,6 +328,42 @@ Should the club members agree to dissolve the club at a special general meeting 
 
 ---
 
+## 17. Amendments to the Constitution
+
+1. **Proposal**  
+   - Any member may propose an amendment to this constitution by opening a Pull Request (PR) in the club’s official GitHub repository.  
+   - Each proposal must include:  
+     - The full text of the proposed amendment.  
+     - A statement of purpose explaining the reason for the amendment.  
+   - **Support for Non-Technical Members**: Any member who cannot use GitHub may submit their proposed amendment in writing (email, message, or document) to any office bearer. The office bearers are obligated to publish the amendment as a GitHub PR on that member’s behalf, without altering its substance.  
+
+2. **Publication & Review Period**  
+   - All members shall be notified electronically of the proposed amendment within 48 hours of submission.  
+   - A **minimum 14-day review period** follows, during which all members may read the proposal, provide feedback, suggest revisions, or raise objections via the GitHub PR discussion.  
+   - If **material changes** are made to the proposal *after* the first 7 days of the review period, the review clock shall reset to give members at least **7 additional days** to review the updated text.  
+   - If all material changes are made within the first 7 days, the original 14-day review period stands.  
+   - The amendment remains “open for review” until the review period (with any extensions) concludes.  
+
+3. **Voting Thresholds**  
+   - At the close of the review period, the amendment shall be put to an online vote accessible to all members.  
+   - **Threshold required:**  
+     - *Ordinary amendments* (clarifications, minor adjustments): **simple majority** of votes cast.  
+     - *Structural amendments* (voting rights, finance, office bearers, dissolution): **two-thirds majority** of votes cast.  
+   - The PR must state which category applies. If disputed, the office bearers decide classification by majority vote **before voting begins**.  
+
+4. **Committee Fast-Track**  
+   - The fast-track process does **not bypass** the proposal, publication, or review steps in sections 1–2.  
+   - If, after the review period, **all office bearers unanimously support the amendment** and **no member has raised a formal objection**, the amendment may be declared adopted without holding a general membership vote.  
+   - Any amendment adopted without following **all requirements of this section** is automatically **void**.  
+
+5. **Transparency & Records**  
+   All proposals, review comments, votes, and outcomes shall be permanently recorded in the GitHub repository.  
+
+6. **Implementation**  
+   Amendments take effect immediately upon adoption unless the PR specifies a later effective date.
+
+---
+
 ## 17. Signatories
 
 Constitution prepared by Chairman:
