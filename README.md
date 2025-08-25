@@ -1,6 +1,6 @@
-# Edinburgh Stingers Ice Hockey Club Constitution – 2024/25
+# Edinburgh Stingers Ice Hockey Club Constitution – 2025/26
 
-*Original Constitution: January 2002, updated June 2024*
+*Original Constitution: January 2002, updated August 2026*
 
 ---
 
@@ -331,23 +331,23 @@ Should the club members agree to dissolve the club at a special general meeting 
 ## 17. Signatories
 
 Constitution prepared by Chairman:
-John McKenzie	
+Toren Wallengren
 
 Agreed and signed by Office bearers:
-Reviewed, updated as required following AGM held in Murrayfield on 20 July 2024
-#### Chair:
-#### Secretary:
-#### Treasurer:
-#### Team Manager:
-#### Head Coach:
-#### Committee Member:
-#### Committee Member:
+Reviewed, updated as required following AGM held in Murrayfield on 2025-08-24
+#### Chair: Toren Wallengren
+#### Secretary: Chris Roxburgh
+#### Treasurer: Garry Craig
+#### Team Manager: Alex Ferris
+#### Head Coach: [TBD]
+#### Committee Member: [TBD]
+#### Committee Member: [TBD]
 
 ### Season 2024/25 Non-executive Office holders:
-#### Assistant Coach:
-#### Captain:
+#### Assistant Coach: [TBD]
+#### Captain: [TBD]
 #### Alternate Captains to be decided by game
 #### Game ‘Official’
 	
-Date :	
-Place	Murrayfield Ice Arena 
+Date:	2025-08-24
+Place: Murrayfield Ice Arena 
