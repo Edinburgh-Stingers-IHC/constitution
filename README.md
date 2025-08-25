@@ -340,12 +340,13 @@ Should the club members agree to dissolve the club at a special general meeting 
 2. **Publication & Review Period**  
    - All members shall be notified electronically of the proposed amendment within 48 hours of submission.  
    - A **minimum 14-day review period** follows, during which all members may read the proposal, provide feedback, suggest revisions, or raise objections via the GitHub PR discussion.  
+   - **Non-Technical Review Support**: Any member who cannot use GitHub may request that an office bearer facilitate their review. The office bearer must record the member’s comments, questions, or suggested edits in the GitHub PR on their behalf, without altering their substance.  
    - If **material changes** are made to the proposal *after* the first 7 days of the review period, the review clock shall reset to give members at least **7 additional days** to review the updated text.  
    - If all material changes are made within the first 7 days, the original 14-day review period stands.  
    - The amendment remains “open for review” until the review period (with any extensions) concludes.  
 
 3. **Voting Thresholds**  
-   - At the close of the review period, the amendment shall be put to an online vote accessible to all members.  
+   - At the close of the review period, the amendment shall be put to an online vote accessible to all members, unless adopted by fast-track under section 4.  
    - **Threshold required:**  
      - *Ordinary amendments* (clarifications, minor adjustments): **simple majority** of votes cast.  
      - *Structural amendments* (voting rights, finance, office bearers, dissolution): **two-thirds majority** of votes cast.  
@@ -353,14 +354,16 @@ Should the club members agree to dissolve the club at a special general meeting 
 
 4. **Committee Fast-Track**  
    - The fast-track process does **not bypass** the proposal, publication, or review steps in sections 1–2.  
-   - If, after the review period, **all office bearers unanimously support the amendment** and **no member has raised a formal objection**, the amendment may be declared adopted without holding a general membership vote.  
+   - If, after the review period, **all office bearers unanimously support the amendment** and **no member has submitted a formal objection**, the amendment may be declared adopted without holding a general membership vote.  
+   - If one or more members submit a formal objection, the amendment shall proceed to a general membership vote at the close of the review period, with thresholds set under section 3.  
+   - A **formal objection** is defined as a member explicitly stating in writing (via GitHub PR or through an office bearer) that they oppose adoption of the amendment as drafted. Ongoing discussion, debate, or suggested edits do not count as a formal objection unless the member clearly states opposition.  
    - Any amendment adopted without following **all requirements of this section** is automatically **void**.  
 
 5. **Transparency & Records**  
    All proposals, review comments, votes, and outcomes shall be permanently recorded in the GitHub repository.  
 
 6. **Implementation**  
-   Amendments take effect immediately upon adoption unless the PR specifies a later effective date.
+   Amendments take effect immediately upon adoption unless the PR specifies a later effective date.  
 
 ---
 
