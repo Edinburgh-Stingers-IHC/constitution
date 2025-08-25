@@ -1,6 +1,6 @@
 # Edinburgh Stingers Ice Hockey Club Constitution – 2025/26
 
-*Original Constitution: January 2002, updated August 2026*
+*Original Constitution: January 2002, updated August 2025*
 
 ---
 
