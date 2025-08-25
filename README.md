@@ -338,7 +338,7 @@ Reviewed, updated as required following AGM held in Murrayfield on 2025-08-24
 #### Chair: Toren Wallengren
 #### Secretary: Chris Roxburgh
 #### Treasurer: Garry Craig
-#### Team Manager: Alex Ferris
+#### Team Manager: Alec Ferris
 #### Head Coach: [TBD]
 #### Committee Member: [TBD]
 #### Committee Member: [TBD]
