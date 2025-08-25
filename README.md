@@ -367,7 +367,7 @@ Should the club members agree to dissolve the club at a special general meeting 
 
 ---
 
-## 17. Signatories
+## 18. Signatories
 
 Constitution prepared by Chairman:
 Toren Wallengren
