@@ -187,11 +187,20 @@ The Treasurer shall prepare any financial statements required by legislative bod
 
 The club reserves the right to implement special payment terms where a player can show special case of hardship e.g. unemployment, this is in line with the club policy for equal opportunities where a member would otherwise be denied the opportunity to train or play.
 
-All payments shall become due prior to starting any activity. Any member who does not pay will be denied access to the activity except where an acceptable reason can be provided and is accepted by the Chairman or Team Manager. All such agreements will be subject to the person making such payment at the next opportunity. Continuous or repeated failure to make payments will not be tolerated and the member will face suspension from all activities until the debt is cleared
+Payment timing and enforcement are defined in Section 7.1. Immediate payment is preferred; however, a two‑day grace window applies after each event as described below. Failure to respond after Treasurer follow‑up or persistent non‑payment may result in suspension from participation and/or disciplinary action under Section 12.
 
 Any member with ‘special requirements’ related to payment of dues must inform the Committee at the earliest opportunity so that the above equal opportunity policy can be put in action.
 
 Payment costs and methods will be defined at the AGM and monitored by the Treasurer
+
+**7.1 Session Fees and Payment Process**
+
+1) Fees: trainings are 18 GBP; games are 20 GBP.
+2) Payment window: players have up to two (2) days after the event to send payment to the Treasurer.
+3) Treasurer follow‑up: after two days, the Treasurer will follow up with the payee.
+4) Response window and discretion: the payee has two (2) additional days to respond explaining why payment is late; the Treasurer has full discretion to agree short‑term options.
+5) Suspension for non‑response: if the payee does not respond after the Treasurer’s follow‑up, the member will not be allowed to participate in any further games or trainings until payment is received.
+6) Persistent issues: anyone with persistent payment issues may be subject to further disciplinary action under Section 12.
 
 ---
 
@@ -240,7 +249,7 @@ Note: this does not count where there are known circumstances, which prevent reg
 ## 9. Training Ice Rules
 
 * The designated coach is in full charge of all on-ice activities including on–ice discipline.
-* All payments must be made before training starts. All members must present the cash or proof of electronic payment to the Treasurer or designated committee member on arrival at the rink.
+* Payment is expected before training starts; where this is not possible, members must pay within the two‑day grace window in Section 7.1 and may be subject to follow‑up by the Treasurer.
 * All players must wear full kit on ice \[IIHF definition of kit requirements].
 * Players must be ready to start at the allotted time.
 * No-one is to leave the ice without first informing the coach or assistant coach.
@@ -263,7 +272,7 @@ Note: this does not count where there are known circumstances, which prevent reg
    1. Noise will be kept to a minimum so as not to cause distraction.
    2. “Suggestions” for improvement should be directed to the Bench Coach.
 5. Any failure in discipline shall be dealt with by the Bench Coach and offenders may be required to sit out part of the game or sent to the dressing room in extreme cases.
-6. Any fees for a game are to be paid on arrival at the ice rink and before changing – NO PAY NO PLAY.
+6. Payment is expected on arrival at the ice rink and before changing; where this is not possible, members must pay within the two‑day grace window in Section 7.1. Failure to respond after Treasurer follow‑up may result in suspension from future games until payment is received.
 7. In home games non-playing members are requested to assist in the setup of the game and also game activities [time-keeping, bench gate etc].
 
 ---
