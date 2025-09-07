@@ -60,7 +60,7 @@ Office bearers may be replaced within the office period if circumstances arise o
 * Finance management and reporting preparation
 * Scheduling (training, games in coordination with Fixture Secretary)
 * Membership administration and registration
-* Overseeing coaching staff; coordinating the member election process for Head Coach; appointing/sanctioning assistant coaches on recommendation of the Head Coach
+* Overseeing coaching staff, appointing/sanctioning assistant coaches on recommendation of the Head Coach
 * First-instance disciplinary decisions under Section 12
 
 ### Board (Summary of Functions)
@@ -70,6 +70,7 @@ Office bearers may be replaced within the office period if circumstances arise o
 * Reviewing and proposing constitutional amendments
 * Considering member motions and concerns elevated beyond Executive scope
 * May review and, by majority vote, overturn or amend Management Team decisions where appropriate to ensure accountability and alignment with club objectives
+* Appoint an Interim Head Coach during a Head Coach suspension, with authority limited to the suspension period and ending at the earlier of the next AGM or any member‑adopted amendment under Section 17 (see Section 4.1.5)
 
 ### 4.1 Office Bearers & Responsibilities
 
@@ -97,6 +98,15 @@ The Team Manager sets the roster and lines for all games (including tournaments)
 The Head Coach is elected by Club members at the AGM and serves until the next AGM, where the incumbent may stand for re‑election. The Head Coach is not a member of the Board or Management Team and has no voting rights on Board or Management Team matters, but may attend meetings in an advisory capacity when relevant.
 
 The Board may, by majority vote, temporarily suspend the Head Coach (e.g., for misconduct, safety concerns, or failure to fulfill duties) pending a member vote by a constitutional amendment or the next AGM to confirm removal and elect a replacement. The Management Team may impose an interim suspension pending Board review where immediate action is required to ensure safety.
+
+Interim Head Coach during suspension: Where the Head Coach is suspended under the foregoing paragraph, the Board may, by majority vote, appoint an Interim Head Coach to ensure continuity of training and bench leadership. The Interim Head Coach:
+
+* holds no Board or Management Team voting rights (non‑Board role),
+* must meet the minimum coaching certification and safety requirements set out for coaches (see Section 4.1.11),
+* has the operational authority of the Head Coach for the duration of the suspension only, and
+* serves until the earlier of (a) the next AGM or (b) the effective date of any member‑adopted amendment under Section 17 that elects, confirms, or removes a Head Coach.
+
+The Board may vary or rescind the interim appointment at any time by majority vote. Appointment of an Interim Head Coach does not bypass or limit the members’ right to elect or remove a Head Coach under Section 17.
 
 The Head Coach is responsible for training plans, player safety, and game strategies as described in this section. The Head Coach may identify, select, encourage and enable suitable members to assist in on‑ice training activities. The Head Coach will provide an overview of the season past and any recommendations for the coming season in terms of strategic improvements at the AGM (advisory, non‑voting).
 
@@ -191,11 +201,11 @@ Payment timing and enforcement are defined in Section 7.1. Immediate payment is 
 
 Any member with ‘special requirements’ related to payment of dues must inform the Committee at the earliest opportunity so that the above equal opportunity policy can be put in action.
 
-Payment costs and methods will be defined at the AGM and monitored by the Treasurer
+Fees, pricing and payment methods are maintained in the Club’s Fee Schedule (FEES.md) and monitored by the Treasurer. The Board may adjust fees from time to time with reasonable notice to members; such changes do not require a constitutional amendment.
 
 **7.1 Session Fees and Payment Process**
 
-1) Fees: trainings are 18 GBP; games are 20 GBP.
+1) Fees: see the current Fee Schedule (FEES.md). The Fee Schedule is the authoritative source for all prices.
 2) Payment window: players have up to two (2) days after the event to send payment to the Treasurer.
 3) Treasurer follow‑up: after two days, the Treasurer will follow up with the payee.
 4) Response window and discretion: the payee has two (2) additional days to respond explaining why payment is late; the Treasurer has full discretion to agree short‑term options.
