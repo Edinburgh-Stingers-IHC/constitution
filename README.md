@@ -91,14 +91,14 @@ The Team Manager shall be responsible for the co-ordination of team activities d
 
 The Team Manager shall ensure that opposing teams are of mixed ability levels to ensure fair amount of team play by all members according to player ability.
 
-The Team Manager sets the roster and lines for all games following consultation with the Head Coach and has the final decision on team selection.
+The Team Manager sets the roster and lines for all games (including tournaments) after consultation with the Head Coach and has the final decision on team selection, maintaining fairness and equality in selection whilst ensuring health and safety.
 
 **4.1.5 Head Coach (Elected by Members; Non‑Board)**
 The Head Coach is elected by Club members at the AGM and serves until the next AGM, where the incumbent may stand for re‑election. The Head Coach is not a member of the Board or Management Team and has no voting rights on Board or Management Team matters, but may attend meetings in an advisory capacity when relevant.
 
 The Board may, by majority vote, temporarily suspend the Head Coach (e.g., for misconduct, safety concerns, or failure to fulfill duties) pending a member vote by a constitutional amendment or the next AGM to confirm removal and elect a replacement. The Management Team may impose an interim suspension pending Board review where immediate action is required to ensure safety.
 
-The Head Coach is responsible for training plans, player safety, and game strategies as described in this section. The Team Manager sets the roster and lines for all games (including tournaments) after consultation with the Head Coach and has the final decision on team selection, maintaining fairness and equality in selection whilst ensuring health and safety. The Head Coach may identify, select, encourage and enable suitable members to assist in on‑ice training activities. The Head Coach will provide an overview of the season past and any recommendations for the coming season in terms of strategic improvements at the AGM (advisory, non‑voting).
+The Head Coach is responsible for training plans, player safety, and game strategies as described in this section. The Head Coach may identify, select, encourage and enable suitable members to assist in on‑ice training activities. The Head Coach will provide an overview of the season past and any recommendations for the coming season in terms of strategic improvements at the AGM (advisory, non‑voting).
 
 **4.1.6 Fixture Secretary**
 Fixture Secretary is a non-executive position but is a required position under the rules of affiliation to SIH. The Fixture Secretary shall be responsible for all arrangements and organization regarding inter-club games, including ice time, referees and passing game details / data / reports to the SIH. The Fixture Secretary may be a serving member of the Board without detriment to Constitution 4 Para. 3.
