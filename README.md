@@ -35,8 +35,8 @@ The Club shall be based and play ‘Home Games’ in Murrayfield Ice Arena, Edin
 * Membership of the club shall be subject to an annual fee, which includes player registration insurance, and affiliation costs determined annually prior to season start up.
 * Membership is an annual renewable requirement starting from 1st of August each year lasting until 31st July of the following year. Payment is non-returnable.
 * Members are entitled to join a second club as per the current rules of SIH (Recreational) and Edinburgh Stingers will permit / accept ‘second team’ members according to Second Team rules of SIH at the time of joining.
-* Membership of the Club entitles each member to a single vote in all events where voting on a motion is required \[e.g. election of Executive / General Committee posts at the AGM, changes to the constitution etc.]
-* Membership entitles a member to hold an elected position after a period of two continuous seasons.
+* Membership of the Club entitles each member to a single vote in all events where voting on a motion is required \[e.g. elections and constitutional changes processed under Section 17].
+* Eligibility: Members may hold a Board position (Chair, Secretary, Treasurer, Team Manager) after a period of two continuous seasons. Other elected roles (e.g., Head Coach) may be held after one continuous season.
 
 ---
 
@@ -46,11 +46,13 @@ The Club shall have two committees:
 
 **Management Team:** Comprised of the Team Manager, Secretary, and Treasurer. Responsible for day-to-day operations and management of the Club.
 
-**Board:** Comprised of the Management Team plus the Chair and one elected member representative. Responsible for oversight, budgets, appeals, and constitutional review.
+**Board:** Comprised of the Management Team plus the Chair. Responsible for oversight, budgets, appeals, and constitutional review.
 
-*Note: A committee member (on either the Management Team or Board) may hold only one elected/voting committee role at a time. A committee member may additionally hold one or more non-committee roles (e.g., Fixture Secretary, Head Coach, Bench Coach) provided those roles do not carry voting rights. Appointed, non-voting roles are excluded from the one-role limit.*
+For the avoidance of doubt, the Head Coach is not a member of the Board or Management Team and holds no voting rights on Board or Management Team matters. The Head Coach may be invited to attend in an advisory (non‑voting) capacity when relevant.
 
-All Management Team posts (Team Manager, Secretary, Treasurer), the Chair and the elected member representative on the Board are available for election at the AGM (or appointment to fill vacancies as required) and are held until the next AGM, where incumbents may seek re-election.
+*Note: A committee member (on either the Management Team or Board) may hold only one elected/voting committee role at a time. A committee member may additionally hold one or more non-committee roles (e.g., Fixture Secretary, Head Coach, Bench Coach) provided those roles do not carry voting rights. Non‑committee, non‑voting roles are excluded from the one‑role limit.*
+
+All Management Team posts (Team Manager, Secretary, Treasurer), the Chair, and the Head Coach are elected by the members via the amendment process described in Section 17. Elections are typically confirmed at the AGM but may be proposed and adopted mid‑season under Section 17. Incumbents may seek re‑election annually.
 
 Office bearers may be replaced within the office period if circumstances arise or if the bearer wishes to relinquish the post. Replacements may be voted in at a special meeting or seconded under the authority of a quorum of the relevant body (Management Team quorum = 2; Board quorum = 3).
 
@@ -58,7 +60,7 @@ Office bearers may be replaced within the office period if circumstances arise o
 * Finance management and reporting preparation
 * Scheduling (training, games in coordination with Fixture Secretary)
 * Membership administration and registration
-* Appointing and overseeing coaching staff (Head Coach and assistants)
+* Overseeing coaching staff; coordinating the member election process for Head Coach; appointing/sanctioning assistant coaches on recommendation of the Head Coach
 * First-instance disciplinary decisions under Section 12
 
 ### Board (Summary of Functions)
@@ -74,7 +76,7 @@ Office bearers may be replaced within the office period if circumstances arise o
 **4.1.1 Chair**
 The Chair leads the Board and is responsible for guiding and monitoring Board members to ensure compliance with this Constitution and the Club’s objectives. The Chair is the external face of the Club and represents the Club at external meetings and events.
 
-The Chair shall chair Board meetings and holds the deciding (casting) vote in the event of a tie. Where unable to attend, the members present shall nominate a meeting chairperson, or the serving Chair may nominate a Board member representative to serve in their place.
+The Chair shall chair Board meetings and holds the deciding (casting) vote in the event of a tie. Where unable to attend, the members present shall nominate a meeting chairperson, or the serving Chair may nominate a Board member to serve in their place.
 
 **4.1.2 Secretary**
 The Club Secretary shall be responsible for minuting and distributing the results of meetings, maintaining the club constitution and passing / circulating relevant information to club members using the preferred internal notifications in use e.g. WhatsApp or Facebook. Note the communications method may change according to current circumstances / preferences.
@@ -89,8 +91,14 @@ The Team Manager shall be responsible for the co-ordination of team activities d
 
 The Team Manager shall ensure that opposing teams are of mixed ability levels to ensure fair amount of team play by all members according to player ability.
 
-**4.1.5 Head Coach (Appointed)**
-The Head Coach is appointed by the Management Team and ratified by the Board. The Board may, by majority vote, remove the Head Coach if warranted (e.g., for misconduct, safety concerns, or failure to fulfill duties). The Management Team may suspend the Head Coach temporarily pending Board review. The Head Coach is not a voting committee member but may attend meetings in an advisory capacity. Responsible for training plans, player safety, and game strategies as described in this section. The Head Coach and Team Manager will be jointly responsible for team selection for all games including tournaments, maintaining fairness and equality in selection whilst ensuring health and safety. The Head Coach may identify, select, encourage and enable suitable members to assist in on‑ice training activities. The Head Coach will provide an overview of the season past and any recommendations for the coming season in terms of strategic improvements at the AGM (advisory, non‑voting).
+The Team Manager sets the roster and lines for all games following consultation with the Head Coach and has the final decision on team selection.
+
+**4.1.5 Head Coach (Elected by Members; Non‑Board)**
+The Head Coach is elected by Club members at the AGM and serves until the next AGM, where the incumbent may stand for re‑election. The Head Coach is not a member of the Board or Management Team and has no voting rights on Board or Management Team matters, but may attend meetings in an advisory capacity when relevant.
+
+The Board may, by majority vote, temporarily suspend the Head Coach (e.g., for misconduct, safety concerns, or failure to fulfill duties) pending a member vote by a constitutional amendment or the next AGM to confirm removal and elect a replacement. The Management Team may impose an interim suspension pending Board review where immediate action is required to ensure safety.
+
+The Head Coach is responsible for training plans, player safety, and game strategies as described in this section. The Team Manager sets the roster and lines for all games (including tournaments) after consultation with the Head Coach and has the final decision on team selection, maintaining fairness and equality in selection whilst ensuring health and safety. The Head Coach may identify, select, encourage and enable suitable members to assist in on‑ice training activities. The Head Coach will provide an overview of the season past and any recommendations for the coming season in terms of strategic improvements at the AGM (advisory, non‑voting).
 
 **4.1.6 Fixture Secretary**
 Fixture Secretary is a non-executive position but is a required position under the rules of affiliation to SIH. The Fixture Secretary shall be responsible for all arrangements and organization regarding inter-club games, including ice time, referees and passing game details / data / reports to the SIH. The Fixture Secretary may be a serving member of the Board without detriment to Constitution 4 Para. 3.
@@ -122,7 +130,7 @@ The Coach\[es] is/\[are] in collaboration with the Team Manager responsible for:
 
 * members Health and Safety whilst on the ice and is therefore in charge of on-ice discipline. This includes making sure that players are properly warmed up prior to full training and all on-ice persons are kitted as per the club and SIH  Rules.
 * the creation and implementation of training plans and improvements at both team and individual levels.
-* assessing player capability for games and creating the team line up for games based on the abilities or the capability \[in terms of H\&S] of individual players plus the level of opposing teams.
+   * assessing player capability for games and providing recommendations to the Team Manager on roster and line‑up based on the abilities or the capability \[in terms of H&S] of individual players plus the level of opposing teams.
 * bringing players up to standards of play that would permit lesser ability players to participate in games against poorer ability teams i.e. like for like. The emphasis will be on best team performance in the game however to meet the club’s policy on equality the Team Manager and Head Coach shall endeavour to ensure that ALL players receive equal game time when selecting teams. In this objective they will also coordinate with the Fixtures secretary to balance ability levels of opposing teams
 
 Players may be scratched from the team selection where a noncompliance with this constitution has been observed. This decision will be made by the Team Manager in conjunction with the Head Coach and the Chair.
@@ -149,7 +157,7 @@ The meeting agenda will consist of:
 * Chairman’s review of the past season.
 * Minutes of the previous meeting.
 * Financial status of the club \[income spend and balance statements].
-* Committee selection \[as applicable].
+* Election/confirmation of office bearers (Chair, Secretary, Treasurer, Team Manager, Head Coach) per Section 17.
 * Any Other Business.
 
 **5.2 Committee Meetings**
@@ -274,10 +282,10 @@ Team selection shall be open to all suitable players and will be subject to cert
 - Attitude toward others in the club.
 - Regular attendance.
 
-In certain circumstances (e.g. senior or national competitions) the club may waive some of these conditions. The Head Coach’s decision is final.
+In certain circumstances (e.g. senior or national competitions) the club may waive some of these conditions. The Team Manager’s decision is final.
 
 **11.3 Game Etiquette**  
-All players will be in place 30 minutes before the game starts and ready to play 5 minutes before the warm up. The lines will be formed by the Head Coach in collaboration with the Team Manager and communicated before leaving the dressing room.
+All players will be in place 30 minutes before the game starts and ready to play 5 minutes before the warm up. The lines will be formed by the Team Manager in collaboration with the Head Coach and communicated before leaving the dressing room.
 
 Following the game all players will endeavour to leave the dressing room in a clean condition at least equal to how it was on arrival.
 
@@ -343,45 +351,44 @@ Should the club members agree to dissolve the club at a special general meeting 
 
 ## 17. Amendments to the Constitution
 
-**17.1 Proposal**
+**17.1 Who may propose**
 
-* Any member of the Club may propose an amendment to this Constitution.
-* Proposals must be submitted in writing or electronically with the full proposed text and a brief statement of purpose explaining the reason for the amendment.
-* Members who are unable to draft or submit electronically may request assistance from an office bearer. The Executive or General Committee must publish the proposal on the Club’s official platform (e.g., GitHub repository) on their behalf without altering its substance.
+* Any person may propose an amendment to this Constitution.
+* Proposals must include the full proposed text and a brief statement of purpose. If the proposer cannot draft or submit electronically, an office bearer will assist and submit on their behalf without altering substance.
 
-**17.2 Publication and Review Period**
+**17.2 Submission to Board**
 
-* All members must be notified electronically of a proposed amendment within 48 hours of its submission/publication.
-* A minimum **14-day review period** follows, during which all members can review and comment on the proposal.
-* If **material changes** are made after the first 7 days of the review period, the review clock resets to provide at least **7 additional days** for members to consider the updated draft.
-* Any member may request an office bearer to record their review comments if they cannot participate directly online.
+* Proposals are handed to the Board for initial review. The Board acknowledges receipt within 48 hours.
 
-**17.3 Board Review**
+**17.3 Board Review (7 days)**
 
-* The **Board** reviews all proposed amendments to ensure consistency with the rest of the Constitution.
-* The Board may suggest edits to improve clarity or integration but cannot alter the substance without the proposer’s consent.
+* The Board has 7 days from acknowledgement to review the proposal for clarity, consistency, and policy alignment, and may collaborate with the proposer on language and integration. Substantive changes require the proposer’s agreement.
 
-**17.4 Voting Thresholds**
+**17.4 Gate Vote (Board + Proposer)**
 
-* After the review period, the amendment is put to an online or AGM vote accessible to all members unless adopted under fast-track (see 17.5).
-* **Ordinary amendments** (e.g., clarifications, minor adjustments) require a **simple majority** of votes cast.
-* **Structural amendments** (e.g., governance, voting rights, finance, dissolution) require a **two-thirds majority** of votes cast.
-* The proposal must state which category applies. If disputed, the General Committee decides the category by majority before voting begins.
+* After the 7‑day review window (or earlier if both sides agree the draft is final), the four Board members and the proposer each cast a single vote (5 total) to determine whether the amendment proceeds to a member vote. If the proposer is a Board member, only the four Board members vote.
+* A simple majority advances the amendment to a member vote: at least 3 of 5 when the proposer is not on the Board; at least 3 of 4 when the proposer is a Board member. If the gate vote fails, the amendment does not proceed.
 
-**17.5 Fast-Track Adoption**
+**17.5 Member Vote (7 days; quorum and threshold)**
 
-* The fast-track process does not bypass the proposal, publication, or review requirements in 17.1 and 17.2.
-* If, after the review period, **the Board unanimously supports the amendment** and **no member has submitted a formal objection**, the amendment may be adopted without a full member vote.
-* A **formal objection** is defined as a member explicitly stating in writing (including via an office bearer) that they oppose adoption of the amendment as drafted.
-* If any member submits a formal objection, the amendment proceeds to a full member vote.
+* If advanced, the Board publishes the final text and announces a 7‑day voting window that is clearly visible to all members.
+* Quorum: at least 50% of all registered Club members must cast a vote for the result to be valid.
+* Passage: a simple majority of votes cast is required to adopt the amendment.
+* After 7 days the Board tallies and publishes the result. If passed, the amendment takes effect immediately.
 
 **17.6 Transparency and Record-Keeping**
 
-* All proposals, comments, votes, and adoption outcomes must be permanently recorded and made accessible to members via the Club’s official platform.
+* All proposals, review notes, gate votes, member vote tallies, and outcomes must be recorded and accessible to members via the Club’s official platform.
 
 **17.7 Implementation**
 
-* Unless otherwise specified in the proposal, adopted amendments take effect immediately.
+* Unless otherwise specified in the proposal, adopted amendments take effect immediately upon passage of the member vote.
+
+**17.8 Elections via Amendment Process**
+
+* Elections and removals for elected roles (Chair, Secretary, Treasurer, Team Manager, Head Coach) are conducted using the same process in 17.1–17.7.
+* Election proposals must name the candidate(s), role, and intended term start date.
+* Elections are ordinarily confirmed at the AGM but may be proposed and completed mid‑season using this process when required.
 
 ---
 
@@ -396,8 +403,6 @@ Reviewed, updated as required following AGM held in Murrayfield on 2025-08-24
 #### Secretary: Chris Roxburgh
 #### Treasurer: Garry Craig
 #### Team Manager: Alex Ferris
-#### Committee Member: [TBD]
-#### Committee Member: [TBD]
 
 ### Season 2024/25 Non-executive Office holders:
 #### Head Coach: [TBD]
