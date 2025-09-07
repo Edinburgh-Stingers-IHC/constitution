@@ -1,4 +1,4 @@
-# Edinburgh Stingers Ice Hockey Club Constitution – 2025/26
+﻿# Edinburgh Stingers Ice Hockey Club Constitution – 2025/26
 
 *Original Constitution: January 2002, updated August 2025*
 
@@ -29,33 +29,55 @@ The Club shall be based and play ‘Home Games’ in Murrayfield Ice Arena, Edin
 
 * Membership to the club is open to all persons between the ages of 18 and 75 \[player limitation only] as per the rules of the Scottish Ice Hockey to which the club is affiliated.
 * Membership is subject to acceptance of the rules of the club. The Club shall retain the right to refuse any application for membership or to withdraw membership on any reasonable grounds.
-  *Reasonable grounds include continuous failure to meet the standards required using a three step process of warning e.g. ‘problem’ explained with option to reply and explain, second warning given if no improvement then suspension, ban or expulsion for third “offence” or other misbehaviour or failure to comply. See also disciplinary procedure S12.*
+  *Reasonable grounds include continuous failure to meet the standards required using a three step process of warning e.g. ‘problem’ explained with option to reply and explain, second warning given if no improvement then suspension, ban or expulsion for third “offence” or other misbehaviour or failure to comply. See also disciplinary procedure Section 12.*
 * All members joining the club shall be deemed to agree with the constitution and rules of the club as published and updated by the club from time to time.
 * All members of the club shall be deemed to be an ordinary member of Scottish Ice Hockey \[SIH]
 * Membership of the club shall be subject to an annual fee, which includes player registration insurance, and affiliation costs determined annually prior to season start up.
 * Membership is an annual renewable requirement starting from 1st of August each year lasting until 31st July of the following year. Payment is non-returnable.
 * Members are entitled to join a second club as per the current rules of SIH (Recreational) and Edinburgh Stingers will permit / accept ‘second team’ members according to Second Team rules of SIH at the time of joining.
-* Membership of the Club entitles each member to a single vote in all events where voting on a motion is required \[e.g. Management Board selection at the AGM, changes to the constitution etc.]
-* Membership entitles a member to hold a position on the Management Committee after a period of two continuous seasons.
+* Membership of the Club entitles each member to a single vote in all events where voting on a motion is required \[e.g. elections and constitutional changes processed under Section 17].
+* Eligibility: Members may hold a Board position (Chair, Secretary, Treasurer, Team Manager) after a period of two continuous seasons.
 
 ---
 
-## 4. Management Committee & Office Bearers
+## 4. Club Leadership Structure
 
-The office bearers shall consist of a Chairman, Treasurer, Secretary, Team Manager and Senior Coach and up to a further two Committee members, who shall be voted into office at an annual meeting. These posts will be held until the next Annual General Meeting where the holders may retain their position through if they wish through re-election.
+The Club shall have two committees:
 
-All executive posts are available for election through a members vote.
+**Management Team:** Comprised of the Team Manager, Secretary, and Treasurer. Responsible for day-to-day operations and management of the Club.
 
-Office bearers may be replaced within the office period if circumstances arise or if the bearer wishes to relinquish the post. Replacements may be voted in at a special meeting or seconded under the authority of a minimum of three serving office bearers.
+**Board:** Comprised of the Management Team plus the Chair. Responsible for oversight, budgets, appeals, and constitutional review.
 
-*Note: A maximum of two posts may be held by one committee member / office bearer at any one time.*
+For the avoidance of doubt, the Head Coach is not a member of the Board or Management Team and holds no voting rights on Board or Management Team matters. The Head Coach may be invited to attend in an advisory (non‑voting) capacity when relevant.
+
+*Note: A committee member (on either the Management Team or Board) may hold only one elected/voting committee role at a time. A committee member may additionally hold one or more non-committee roles (e.g., Fixture Secretary, Head Coach, Bench Coach) provided those roles do not carry voting rights. Non‑committee, non‑voting roles are excluded from the one‑role limit.*
+
+All Management Team posts (Team Manager, Secretary, Treasurer), the Chair, and the Head Coach are elected by the members via the amendment process described in Section 17. Elections are typically confirmed at the AGM but may be proposed and adopted mid‑season under Section 17. Incumbents may seek re‑election annually.
+
+Office bearers may be replaced within the office period if circumstances arise or if the bearer wishes to relinquish the post. Replacements may be voted in at a special meeting or seconded under the authority of a quorum of the relevant body (Management Team quorum = 2; Board quorum = 3).
+
+### Management Team (Summary of Functions)
+* Finance management and reporting preparation
+* Scheduling (training, games in coordination with Fixture Secretary)
+* Membership administration and registration
+* Overseeing coaching staff, appointing/sanctioning assistant coaches on recommendation of the Head Coach
+* First-instance disciplinary decisions under Section 12
+
+### Board (Summary of Functions)
+* Strategic and governance oversight of Club operations
+* Approving annual budgets and any major / extraordinary expenditure
+* Hearing disciplinary appeals and determining expulsions (Section 12)
+* Reviewing and proposing constitutional amendments
+* Considering member motions and concerns elevated beyond Executive scope
+* May review and, by majority vote, overturn or amend Management Team decisions where appropriate to ensure accountability and alignment with club objectives
+* Appoint an Interim Head Coach during a Head Coach suspension, with authority limited to the suspension period and ending at the earlier of the next AGM or any member‑adopted amendment under Section 17 (see Section 4.1.5)
 
 ### 4.1 Office Bearers & Responsibilities
 
 **4.1.1 Chair**
-The Chair person shall be responsible for the general management of the Club. He/she will be the external face of the club and represent the club at external meetings / events.
+The Chair leads the Board and is responsible for guiding and monitoring Board members to ensure compliance with this Constitution and the Club’s objectives. The Chair is the external face of the Club and represents the Club at external meetings and events.
 
-The chair person shall chair internal meetings of the committee and shall hold the deciding vote in a split decision. Where unable to attend the members present shall nominate a meeting chairperson to control a meeting. Alternatively the serving Chair person may nominate a Club Management Committee member to serve in his/her place.
+The Chair shall chair Board meetings and holds the deciding (casting) vote in the event of a tie. Where unable to attend, the members present shall nominate a meeting chairperson, or the serving Chair may nominate a Board member to serve in their place.
 
 **4.1.2 Secretary**
 The Club Secretary shall be responsible for minuting and distributing the results of meetings, maintaining the club constitution and passing / circulating relevant information to club members using the preferred internal notifications in use e.g. WhatsApp or Facebook. Note the communications method may change according to current circumstances / preferences.
@@ -70,18 +92,29 @@ The Team Manager shall be responsible for the co-ordination of team activities d
 
 The Team Manager shall ensure that opposing teams are of mixed ability levels to ensure fair amount of team play by all members according to player ability.
 
-**4.1.5 Senior Coach**
-The senior Coach is responsible for monitoring the player abilities in order to create strategies for improvement at both individual and game team levels. He/she will work in coordination with the Team Manager to ensure that standards do not slip.
+The Team Manager sets the roster and lines for all games (including tournaments) after consultation with the Head Coach and has the final decision on team selection, maintaining fairness and equality in selection whilst ensuring health and safety.
 
-The Senior Coach and Team Manager will be jointly responsible for team selection for all games including tournaments. They will also be jointly responsible for maintaining fairness and equality in selection whilst ensuring the health and safety of players.
+**4.1.5 Head Coach (Elected by Members; Non‑Board)**
+The Head Coach is elected by Club members at the AGM and serves until the next AGM, where the incumbent may stand for re‑election. The Head Coach is not a member of the Board or Management Team and has no voting rights on Board or Management Team matters, but may attend meetings in an advisory capacity when relevant.
 
-The Senior Coach will identify, select, encourage and enable suitable members to assist in on ice training activities
+The Board may, by majority vote, temporarily suspend the Head Coach (e.g., for misconduct, safety concerns, or failure to fulfill duties) pending a member vote by a constitutional amendment or the next AGM to confirm removal and elect a replacement. The Management Team may impose an interim suspension pending Board review where immediate action is required to ensure safety.
+
+Interim Head Coach during suspension: Where the Head Coach is suspended under the foregoing paragraph, the Board may, by majority vote, appoint an Interim Head Coach to ensure continuity of training and bench leadership. The Interim Head Coach:
+
+* holds no Board or Management Team voting rights (non‑Board role),
+* must meet the minimum coaching certification and safety requirements set out for coaches (see Section 4.1.11),
+* has the operational authority of the Head Coach for the duration of the suspension only, and
+* serves until the earlier of (a) the next AGM or (b) the effective date of any member‑adopted amendment under Section 17 that elects, confirms, or removes a Head Coach.
+
+The Board may vary or rescind the interim appointment at any time by majority vote. Appointment of an Interim Head Coach does not bypass or limit the members’ right to elect or remove a Head Coach under Section 17.
+
+The Head Coach is responsible for training plans, player safety, and game strategies as described in this section. The Head Coach may identify, select, encourage and enable suitable members to assist in on‑ice training activities. The Head Coach will provide an overview of the season past and any recommendations for the coming season in terms of strategic improvements at the AGM (advisory, non‑voting).
 
 **4.1.6 Fixture Secretary**
-Fixture Secretary is a non-executive position but is a required position under the rules of affiliation to SIH. The Fixture Secretary shall be responsible for all arrangements and organization regarding inter-club games, including ice time, referees and passing game details / data / reports to the SIH. The Fixture Secretary may be a serving member of the Club management committee without detriment to Constitution 4 Para. 3.
+Fixture Secretary is a required position under the rules of affiliation to SIH. The Fixture Secretary shall be responsible for all arrangements and organization regarding inter-club games, including ice time, referees and passing game details / data / reports to the SIH.
 
 **4.1.7 Committee Members**
-Each member of the management committee shall have one vote on each subject under discussion at committee meetings. In the case of a split vote the Chairman shall have the casting vote, or in their absence this shall pass to the Team Manager. They shall each be responsible for representing the club as a member of the management committee should circumstances arise requiring committee intervention.
+Each member of the Management Team has one vote on Management Team matters. Each member of the Board has one vote on Board matters. The Chair has a casting vote in the Board in case of a tie. Members are responsible for representing the Club within the remit of their respective body.
 
 **4.1.8 Sub Committee Members**
 From time to time a sub-committee may be formed e.g. for informal events such as award or other events. These committees shall be by mutual selection and do not have to be restricted to senior committee officials
@@ -97,7 +130,7 @@ The Alternate Captain shall substitute for the Captain as required during a game
 **4.1.11 Coach / Assistant Coach**
 Coaches must hold as a minimum a Level 1 Coaching certificate as per SIH requirements. This certificate must be maintained through the SIH Coaching plans at all times.
 
-Assistant Coaches can be used without certification where the person is seen as having suitable knowledge and experience to provide a level of improvement to on ice action. This action MUST be approved by the Senior Coach and sanctioned by the Executive Committee
+Assistant Coaches can be used without certification where the person is seen as having suitable knowledge and experience to provide a level of improvement to on ice action. This action MUST be approved by the Head Coach and sanctioned by the Management Team
 
 During games a Coach is required to sign off the game record at each game and must be present on the bench whether actively playing or not.
 
@@ -107,12 +140,10 @@ The Coach\[es] is/\[are] in collaboration with the Team Manager responsible for:
 
 * members Health and Safety whilst on the ice and is therefore in charge of on-ice discipline. This includes making sure that players are properly warmed up prior to full training and all on-ice persons are kitted as per the club and SIH  Rules.
 * the creation and implementation of training plans and improvements at both team and individual levels.
-* assessing player capability for games and creating the team line up for games based on the abilities or the capability \[in terms of H\&S] of individual players plus the level of opposing teams.
+   * assessing player capability for games and providing recommendations to the Team Manager on roster and line‑up based on the abilities or the capability \[in terms of H&S] of individual players plus the level of opposing teams.
 * bringing players up to standards of play that would permit lesser ability players to participate in games against poorer ability teams i.e. like for like. The emphasis will be on best team performance in the game however to meet the club’s policy on equality the Team Manager and Head Coach shall endeavour to ensure that ALL players receive equal game time when selecting teams. In this objective they will also coordinate with the Fixtures secretary to balance ability levels of opposing teams
 
-The Head Coach, because of the technical requirements of the post, will be required to provide an overview of the season past and his recommendations for the coming season in terms of strategic improvements at the AGM.
-
-Players may be scratched from the team selection where a noncompliance with this constitution has been observed. This decision will be made by the Team Manager in conjunction with the Head Coach and the Chairman.
+Players may be scratched from the team selection where a noncompliance with this constitution has been observed. This decision will be made by the Team Manager in conjunction with the Head Coach and the Chair.
 
 **4.1.12 Bench Coach**
 The Bench Coach is in total control of activities before during and after any game. He/she alone is responsible for bench discipline and game strategy. The Bench Coach will be required to present information and/or report regarding the on-ice discipline of players should a disciplinary meeting be called. The Bench Coach may not be a player member of the team during a game \[SIH Rule]. Where no Bench Coach is available, the position is filled by the Team Manager and where he cannot participate, then the Captain will be responsible for maintaining on and off ice discipline and control.
@@ -136,14 +167,14 @@ The meeting agenda will consist of:
 * Chairman’s review of the past season.
 * Minutes of the previous meeting.
 * Financial status of the club \[income spend and balance statements].
-* Committee selection \[as applicable].
+* Election/confirmation of office bearers (Chair, Secretary, Treasurer, Team Manager, Head Coach) per Section 17.
 * Any Other Business.
 
 **5.2 Committee Meetings**
-The elected committee shall convene on a regular basis to discuss the normal activities of the club. Each meeting shall consist of a minimum of 4 committee members. All meetings will be run to a stated agenda presented in advance by the Secretary.
+Management Team meetings shall convene on a regular basis to discuss day-to-day operations (quorum 2). Board meetings shall convene as required for oversight, budgets, constitutional matters and appeals (quorum 3). All meetings will be run to a stated agenda presented in advance by the Secretary.
 
 **5.3 Special Meetings**
-Special meetings shall be called when circumstances require one (e.g. a change to legislation or new rules, disciplinary hearing etc.). A minimum of 5 committee members must be present for a disciplinary hearing.
+Special meetings shall be called when circumstances require one (e.g. a change to legislation or new rules, disciplinary hearing etc.). First-instance disciplinary hearings may be conducted by the Management Team (quorum 2). Appeals, expulsions or major disciplinary matters require a Board quorum (3). Where practicable a larger attendance (up to full Board) is preferred.
 
 **5.4 SIH UK ltd Meetings**
 All minutes / actions arising out of SIH Ltd. / Recreational meetings shall be communicated to the club members as soon as reasonably possible following the meeting.
@@ -166,11 +197,20 @@ The Treasurer shall prepare any financial statements required by legislative bod
 
 The club reserves the right to implement special payment terms where a player can show special case of hardship e.g. unemployment, this is in line with the club policy for equal opportunities where a member would otherwise be denied the opportunity to train or play.
 
-All payments shall become due prior to starting any activity. Any member who does not pay will be denied access to the activity except where an acceptable reason can be provided and is accepted by the Chairman or Team Manager. All such agreements will be subject to the person making such payment at the next opportunity. Continuous or repeated failure to make payments will not be tolerated and the member will face suspension from all activities until the debt is cleared
+Payment timing and enforcement are defined in Section 7.1. Immediate payment is preferred; however, a two‑day grace window applies after each event as described below. Failure to respond after Treasurer follow‑up or persistent non‑payment may result in suspension from participation and/or disciplinary action under Section 12.
 
 Any member with ‘special requirements’ related to payment of dues must inform the Committee at the earliest opportunity so that the above equal opportunity policy can be put in action.
 
-Payment costs and methods will be defined at the AGM and monitored by the Treasurer
+Fees, pricing and payment methods are maintained in the Club’s Fee Schedule (FEES.md) and monitored by the Treasurer. The Board may adjust fees from time to time with reasonable notice to members; such changes do not require a constitutional amendment.
+
+**7.1 Session Fees and Payment Process**
+
+1) Fees: see the current Fee Schedule (FEES.md). The Fee Schedule is the authoritative source for all prices.
+2) Payment window: players have up to two (2) days after the event to send payment to the Treasurer.
+3) Treasurer follow‑up: after two days, the Treasurer will follow up with the payee.
+4) Response window and discretion: the payee has two (2) additional days to respond explaining why payment is late; the Treasurer has full discretion to agree short‑term options.
+5) Suspension for non‑response: if the payee does not respond after the Treasurer’s follow‑up, the member will not be allowed to participate in any further games or trainings until payment is received.
+6) Persistent issues: anyone with persistent payment issues may be subject to further disciplinary action under Section 12.
 
 ---
 
@@ -219,7 +259,7 @@ Note: this does not count where there are known circumstances, which prevent reg
 ## 9. Training Ice Rules
 
 * The designated coach is in full charge of all on-ice activities including on–ice discipline.
-* All payments must be made before training starts. All members must present the cash or proof of electronic payment to the Treasurer or designated committee member on arrival at the rink.
+* Payment is expected before training starts; where this is not possible, members must pay within the two‑day grace window in Section 7.1 and may be subject to follow‑up by the Treasurer.
 * All players must wear full kit on ice \[IIHF definition of kit requirements].
 * Players must be ready to start at the allotted time.
 * No-one is to leave the ice without first informing the coach or assistant coach.
@@ -242,7 +282,7 @@ Note: this does not count where there are known circumstances, which prevent reg
    1. Noise will be kept to a minimum so as not to cause distraction.
    2. “Suggestions” for improvement should be directed to the Bench Coach.
 5. Any failure in discipline shall be dealt with by the Bench Coach and offenders may be required to sit out part of the game or sent to the dressing room in extreme cases.
-6. Any fees for a game are to be paid on arrival at the ice rink and before changing – NO PAY NO PLAY.
+6. Payment is expected on arrival at the ice rink and before changing; where this is not possible, members must pay within the two‑day grace window in Section 7.1. Failure to respond after Treasurer follow‑up may result in suspension from future games until payment is received.
 7. In home games non-playing members are requested to assist in the setup of the game and also game activities [time-keeping, bench gate etc].
 
 ---
@@ -261,10 +301,10 @@ Team selection shall be open to all suitable players and will be subject to cert
 - Attitude toward others in the club.
 - Regular attendance.
 
-In certain circumstances (e.g. senior or national competitions) the club may waive some of these conditions. The Head Coach’s decision is final.
+In certain circumstances (e.g. senior or national competitions) the club may waive some of these conditions. The Team Manager’s decision is final.
 
 **11.3 Game Etiquette**  
-All players will be in place 30 minutes before the game starts and ready to play 5 minutes before the warm up. The lines will be formed by the Head Coach in collaboration with the Team Manager and communicated before leaving the dressing room.
+All players will be in place 30 minutes before the game starts and ready to play 5 minutes before the warm up. The lines will be formed by the Team Manager in collaboration with the Head Coach and communicated before leaving the dressing room.
 
 Following the game all players will endeavour to leave the dressing room in a clean condition at least equal to how it was on arrival.
 
@@ -280,21 +320,21 @@ Following home games all players shall assist in the set-up and clean-up operati
 
 ## 12. Discipline
 
-The club shall have the authority through its committee to render punishment on club members who fail to follow the rules and byelaws as laid out in this constitution.
+The Club shall have the authority through its committees to render punishment on club members who fail to follow the rules and byelaws as laid out in this constitution.
 
-Such discipline shall be restricted to denial of ice time at practices and games leading in extreme cases to expulsion from the club. In each of these cases where the perpetrator is already on the ice there shall be no refund of monies paid for that session. Expulsion also does not allow any repayment of monies already paid.
+Disciplinary actions progress from denial of ice time at practices and games up to expulsion from the Club. Where a participant is already on the ice there shall be no refund of monies paid for that session. Expulsion does not allow any repayment of monies already paid.
 
-Discipline punishments shall only be held if agreed by a quorum of committee members present during the offence or by special meeting of the committee for more severe disciplinary offences.
+Initial (first-instance) disciplinary decisions are made by the Management Team (quorum 2). Appeals, expulsions and major disciplinary outcomes are determined by the Board (quorum 3). The Board may increase penalties where justified.
 
-In addition the committee shall hold a disciplinary meeting against team members who receive major penalties before, during or after a game. Any player receiving such a penalty shall be awarded disciplinary action by the SIH Discipline Coordinator. The committee shall then decide if any further discipline is to be given to the individual based on the recorded evidential details or circumstances during the alleged offence. The game Bench Coach will be required to provide the committee with details of the offence.
+In addition the committees shall review incidents involving major penalties before, during or after a game. Any player receiving such a penalty shall be awarded disciplinary action by the SIH Discipline Coordinator. The appropriate body (Management Team or Board) shall then decide if any further discipline is to be given to the individual based on the recorded evidential details or circumstances during the alleged offence. The game Bench Coach will be required to provide the body with details of the offence.
 
-Major or Minor offences / infringement of the rules within the Club will be dealt with by a disciplinary committee following a three point plan:
+Major or Minor offences / infringement of the rules within the Club will be dealt with following a three point plan:
 
 - **1st offence** – the offender will be spoken to by the Team Manager or Head Coach where the offence will be explained. A plan will be agreed to prevent recurrence between the offender and the Coach/Manager. A note will be lodged with the Secretary and the offence will remain active during the period of the recovery plan.
 - **2nd offence** – should this take place before the plan has timed out the offender will be given a second warning [sometimes referred to as a written warning] of the consequences of failing to meet the plan requirements. A shorter timescale 2nd plan will be agreed and signed off by the offender. This written plan will be logged by the Secretary.
-- **3rd offence** – should the offender not meet the 2nd plan agreement then the Disciplinary Committee shall meet to decide on action. The action shall depend on the seriousness of the offence and may lead to suspension from training and or games or even expulsion. The offender will be advised directly by a senior Committee Member and receive written notice of the offence, the decision and any additional disciplinary details signed by the Chairman.
+- **3rd offence** – should the offender not meet the 2nd plan agreement then the Board shall meet (quorum 3) to decide on action. The action shall depend on the seriousness of the offence and may lead to suspension from training and or games or expulsion. The offender will be advised directly by a senior Committee Member and receive written notice of the offence, the decision and any additional disciplinary details signed by the Chair.
 
-In extreme cases on a major infringement, whether in house or external, the Disciplinary Committee may take action without following the 3 point disciplinary process where this is felt to be justified.
+In extreme cases of major infringement, whether internal or external, the Board may take immediate action without following the 3 point disciplinary process where this is justified.
 
 ---
 
@@ -313,7 +353,7 @@ Copies of this policy and others are available to view and download on the Scott
 
 ## 15. Data Protection Act
 
-Information and personal data gathered as part of affiliation / registration shall be protected pursuant to the current Data Protections Act. Such data will not be provided to any other party without the express knowledge and agreement of the person. The Club Chairman shall be the Data Controller under the requirements of the Act.
+Information and personal data gathered as part of affiliation / registration shall be protected pursuant to the current Data Protections Act. Such data will not be provided to any other party without the express knowledge and agreement of the person. The Club Chair shall be the Data Controller under the requirements of the Act.
 
 ---
 
@@ -328,7 +368,50 @@ Should the club members agree to dissolve the club at a special general meeting 
 
 ---
 
-## 17. Signatories
+## 17. Amendments to the Constitution
+
+**17.1 Who may propose**
+
+* Any person may propose an amendment to this Constitution.
+* Proposals must include the full proposed text and a brief statement of purpose. If the proposer cannot draft or submit electronically, an office bearer will assist and submit on their behalf without altering substance.
+
+**17.2 Submission to Board**
+
+* Proposals are handed to the Board for initial review. The Board acknowledges receipt within 48 hours.
+
+**17.3 Board Review (7 days)**
+
+* The Board has 7 days from acknowledgement to review the proposal for clarity, consistency, and policy alignment, and may collaborate with the proposer on language and integration. Substantive changes require the proposer’s agreement.
+
+**17.4 Gate Vote (Board + Proposer)**
+
+* After the 7‑day review window (or earlier if both sides agree the draft is final), the four Board members and the proposer each cast a single vote (5 total) to determine whether the amendment proceeds to a member vote. If the proposer is a Board member, only the four Board members vote.
+* A simple majority advances the amendment to a member vote: at least 3 of 5 when the proposer is not on the Board; at least 3 of 4 when the proposer is a Board member. If the gate vote fails, the amendment does not proceed.
+
+**17.5 Member Vote (7 days; quorum and threshold)**
+
+* If advanced, the Board publishes the final text and announces a 7‑day voting window that is clearly visible to all members.
+* Quorum: at least 50% of all registered Club members must cast a vote for the result to be valid.
+* Passage: a simple majority of votes cast is required to adopt the amendment.
+* After 7 days the Board tallies and publishes the result. If passed, the amendment takes effect immediately.
+
+**17.6 Transparency and Record-Keeping**
+
+* All proposals, review notes, gate votes, member vote tallies, and outcomes must be recorded and accessible to members via the Club’s official platform.
+
+**17.7 Implementation**
+
+* Unless otherwise specified in the proposal, adopted amendments take effect immediately upon passage of the member vote.
+
+**17.8 Elections via Amendment Process**
+
+* Elections and removals for elected roles (Chair, Secretary, Treasurer, Team Manager, Head Coach) are conducted using the same process in 17.1–17.7.
+* Election proposals must name the candidate(s), role, and intended term start date.
+* Elections are ordinarily confirmed at the AGM but may be proposed and completed mid‑season using this process when required.
+
+---
+
+## 18. Signatories
 
 Constitution prepared by Chairman:
 Toren Wallengren
@@ -339,11 +422,9 @@ Reviewed, updated as required following AGM held in Murrayfield on 2025-08-24
 #### Secretary: Chris Roxburgh
 #### Treasurer: Garry Craig
 #### Team Manager: Alex Ferris
-#### Head Coach: [TBD]
-#### Committee Member: [TBD]
-#### Committee Member: [TBD]
 
 ### Season 2024/25 Non-executive Office holders:
+#### Head Coach: [TBD]
 #### Assistant Coach: [TBD]
 #### Captain: [TBD]
 #### Alternate Captains to be decided by game
