@@ -29,14 +29,14 @@ The Club shall be based and play ‘Home Games’ in Murrayfield Ice Arena, Edin
 
 * Membership to the club is open to all persons between the ages of 18 and 75 \[player limitation only] as per the rules of the Scottish Ice Hockey to which the club is affiliated.
 * Membership is subject to acceptance of the rules of the club. The Club shall retain the right to refuse any application for membership or to withdraw membership on any reasonable grounds.
-  *Reasonable grounds include continuous failure to meet the standards required using a three step process of warning e.g. ‘problem’ explained with option to reply and explain, second warning given if no improvement then suspension, ban or expulsion for third “offence” or other misbehaviour or failure to comply. See also disciplinary procedure S12.*
+  *Reasonable grounds include continuous failure to meet the standards required using a three step process of warning e.g. ‘problem’ explained with option to reply and explain, second warning given if no improvement then suspension, ban or expulsion for third “offence” or other misbehaviour or failure to comply. See also disciplinary procedure Section 12.*
 * All members joining the club shall be deemed to agree with the constitution and rules of the club as published and updated by the club from time to time.
 * All members of the club shall be deemed to be an ordinary member of Scottish Ice Hockey \[SIH]
 * Membership of the club shall be subject to an annual fee, which includes player registration insurance, and affiliation costs determined annually prior to season start up.
 * Membership is an annual renewable requirement starting from 1st of August each year lasting until 31st July of the following year. Payment is non-returnable.
 * Members are entitled to join a second club as per the current rules of SIH (Recreational) and Edinburgh Stingers will permit / accept ‘second team’ members according to Second Team rules of SIH at the time of joining.
 * Membership of the Club entitles each member to a single vote in all events where voting on a motion is required \[e.g. elections and constitutional changes processed under Section 17].
-* Eligibility: Members may hold a Board position (Chair, Secretary, Treasurer, Team Manager) after a period of two continuous seasons. Other elected roles (e.g., Head Coach) may be held after one continuous season.
+* Eligibility: Members may hold a Board position (Chair, Secretary, Treasurer, Team Manager) after a period of two continuous seasons.
 
 ---
 
@@ -101,7 +101,7 @@ The Board may, by majority vote, temporarily suspend the Head Coach (e.g., for m
 The Head Coach is responsible for training plans, player safety, and game strategies as described in this section. The Head Coach may identify, select, encourage and enable suitable members to assist in on‑ice training activities. The Head Coach will provide an overview of the season past and any recommendations for the coming season in terms of strategic improvements at the AGM (advisory, non‑voting).
 
 **4.1.6 Fixture Secretary**
-Fixture Secretary is a non-executive position but is a required position under the rules of affiliation to SIH. The Fixture Secretary shall be responsible for all arrangements and organization regarding inter-club games, including ice time, referees and passing game details / data / reports to the SIH. The Fixture Secretary may be a serving member of the Board without detriment to Constitution 4 Para. 3.
+Fixture Secretary is a required position under the rules of affiliation to SIH. The Fixture Secretary shall be responsible for all arrangements and organization regarding inter-club games, including ice time, referees and passing game details / data / reports to the SIH.
 
 **4.1.7 Committee Members**
 Each member of the Management Team has one vote on Management Team matters. Each member of the Board has one vote on Board matters. The Chair has a casting vote in the Board in case of a tie. Members are responsible for representing the Club within the remit of their respective body.
@@ -343,7 +343,7 @@ Copies of this policy and others are available to view and download on the Scott
 
 ## 15. Data Protection Act
 
-Information and personal data gathered as part of affiliation / registration shall be protected pursuant to the current Data Protections Act. Such data will not be provided to any other party without the express knowledge and agreement of the person. The Club Chairman shall be the Data Controller under the requirements of the Act.
+Information and personal data gathered as part of affiliation / registration shall be protected pursuant to the current Data Protections Act. Such data will not be provided to any other party without the express knowledge and agreement of the person. The Club Chair shall be the Data Controller under the requirements of the Act.
 
 ---
 
